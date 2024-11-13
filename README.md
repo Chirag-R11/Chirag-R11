@@ -41,3 +41,17 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
      - Energy management (remote control of high-energy appliances)
     
   The combination of digital electronics for appliance control and the GSM network for communication ensures that this system is both efficient and user-friendly, providing an affordable solution for modern smart homes.
+
+### 2. **[Electricity Billing System](https://github.com/Chirag-R11/ElectricityBillingSystem)**
+   - **Description**: The Electricity Billing System is a software application developed in Java that automates the process of calculating electricity usage charges for residential or commercial users. This system takes input data such as the units of electricity consumed and user details, and computes the corresponding billing amount based on predefined rates. It simplifies and speeds up the billing process, ensuring accuracy and eliminating the need for manual calculations.
+   - **Features**:
+     - User Registration and Management: The system allows users to register and manage their details (e.g., name, address, account number).
+     - Bill Calculation: The system calculates the bill based on the units of electricity consumed and predefined rate slabs.
+     - Bill Generation: Automatically generates a detailed bill for the user, displaying the usage and charges.
+     - Reports: Generate and view usage reports or past billing history for users or departments.
+  - **Applications**:
+     - Utility companies can use such a system to automate the electricity billing process for residential or commercial consumers.
+     - The system can be expanded to include features such as online payment integration, multi-user support, and bill history tracking.
+   
+    This Electricity Billing System is a simple yet efficient tool to automate and simplify the entire billing process, ensuring accuracy, transparency, and convenience for both consumers and utility providers.
+
