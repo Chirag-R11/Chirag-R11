@@ -26,10 +26,3 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
   - MySQL
 
 ---
-
-## 📈 GitHub Stats
-
-Here are some quick stats about my GitHub activity!
-
-```bash
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Chirag-R11=Chirag-R11&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
