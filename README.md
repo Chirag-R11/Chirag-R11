@@ -39,4 +39,4 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
      - Home automation
      - Security systems (door locking, alarm control)
      - Energy management (remote control of high-energy appliances)
-     The combination of digital electronics for appliance control and the GSM network for communication ensures that this system is both efficient and user-friendly, providing an affordable solution for modern smart homes.
+  The combination of digital electronics for appliance control and the GSM network for communication ensures that this system is both efficient and user-friendly, providing an affordable solution for modern smart homes.
