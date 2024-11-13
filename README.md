@@ -28,10 +28,6 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
 
 ## 📂 Projects
 
-- 
-
-## 📂 Projects
-
 ### 1. **[A SMART HOME APPLIANCES CONTROL SYSTEM BASED ON DIGITAL ELECTRONICS AND GSM NETWORK]()**
    - **Description**: The Smart Home Appliances Control System is an innovative project designed to remotely manage and control household appliances using digital electronics and the GSM (Global System for Mobile Communications) network. This system enables users to control various home appliances, such as lights, fans, air conditioners, and security systems, via text messages (SMS) sent from a mobile phone.
    - **Features**:
