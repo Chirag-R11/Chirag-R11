@@ -35,8 +35,8 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
      - Security: The system can integrate security features like door locks, alarms, and surveillance cameras, which can be controlled remotely.
      - Energy Efficiency: Users can ensure that appliances are turned off when not in use, helping save energy.
      - Convenience: The system makes everyday tasks easier, such as turning on lights before entering the house or adjusting the air conditioning remotely.
-  - **Applications:**:
-   - Home automation
-   - Security systems (door locking, alarm control)
-   - Energy management (remote control of high-energy appliances)
+  - **Applications**:
+     - Home automation
+     - Security systems (door locking, alarm control)
+     - Energy management (remote control of high-energy appliances)
      The combination of digital electronics for appliance control and the GSM network for communication ensures that this system is both efficient and user-friendly, providing an affordable solution for modern smart homes.
