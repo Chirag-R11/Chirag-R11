@@ -32,4 +32,4 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
 Here are some quick stats about my GitHub activity!
 
 ```bash
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Chirag-R11=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
