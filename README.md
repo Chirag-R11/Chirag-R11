@@ -17,7 +17,7 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
 - **Programming Languages**:
   - Java
   - C
-  - MySQL
+  - Python
   
 - **Web Development**:
   - HTML, CSS, JavaScript
@@ -29,7 +29,7 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
 ## 📂 Projects
 
 ### 1. **[A SMART HOME APPLIANCES CONTROL SYSTEM BASED ON DIGITAL ELECTRONICS AND GSM NETWORK]()**
-   - **Description**: The Smart Home Appliances Control System is an embedded solution designed to remotely control household appliances using Digital Electronics and the GSM (Global System for Mobile Communications) network. This system leverages a microcontroller (e.g., Arduino) along with a GSM module to allow users to send SMS commands from their mobile phones to switch on/off various appliances like lights, fans, air conditioners, and more.
+   - **Description**: The Smart Home Appliances Control System is an embedded solution designed to remotely control household appliances using Digital Electronics and the GSM (Global System for Mobile Communications) network and more.
   - **Technologies Used**:
      - Microcontroller: [Arduino/ESP32]
      - Communication: GSM Module (SIM800L)
@@ -39,7 +39,7 @@ Hi there! 👋 I'm Chirag R, an enthusiastic MCA (Master of Computer Application
   The combination of digital electronics for appliance control and the GSM network for communication ensures that this system is both efficient and user-friendly, providing an affordable solution for modern smart homes.
 
 ### 2. **[Electricity Billing System](https://github.com/Chirag-R11/ElectricityBillingSystem)**
-   - **Description**: The Electricity Billing System is a software application developed in Java that automates the process of calculating electricity usage charges for residential or commercial users. This system takes input data such as the units of electricity consumed and user details, and computes the corresponding billing amount based on predefined rates. It simplifies and speeds up the billing process, ensuring accuracy and eliminating the need for manual calculations.
+   - **Description**: The Electricity Billing System is a software application developed in Java that automates the process of calculating electricity usage charges for residential or commercial users.
   - **Applications**:
      - Utility companies can use such a system to automate the electricity billing process for residential or commercial consumers.
      - The system can be expanded to include features such as online payment integration, multi-user support, and bill history tracking.
